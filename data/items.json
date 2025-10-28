@@ -1,0 +1,24 @@
+{
+    "emotes": [
+        {
+            "name": "Stimulation",
+            "preview": "assets/emotes/stimulation.mp4"
+        },
+        {
+            "name": "Dokidi",
+            "preview": "assets/emotes/dokidi.mp4"
+        },
+        {
+            "name": "Jumper",
+            "preview": "assets/emotes/jumper.mp4"
+        },
+        {
+            "name": "Squiddy",
+            "preview": "assets/emotes/squiddy.mp4"
+        }
+    ],
+    "items": [],
+    "trails": [],
+    "auras": [],
+    "death": []
+}
